@@ -1,0 +1,22 @@
+{
+	"phoneNumber": [
+	{
+	"number": "123",
+	"type": "HOME"
+	},
+	{
+	"number": "1234",
+	"type": "OFFICE"
+	}
+	],
+	"FirstName": "Ravi",
+	"LastName": "Kumar",
+	"Age": "33",
+	"address": {
+	"Apartname": "Test",
+	"StreetAddress": "Sarjaput",
+	"PostalCode": "305001",
+	"City": "Bangalore"
+	}
+	
+}
